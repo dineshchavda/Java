@@ -1,4 +1,3 @@
 # Java
 
-In this REPOSITORY you can find out about java gui programming 
-and different algorthem in java 
+In this REPOSITORY you can find out about java GUI programming 
